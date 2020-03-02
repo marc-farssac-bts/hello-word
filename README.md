@@ -6,3 +6,5 @@ This is my first hello-world repository
 This is about me information as per the tutorial
 
 This is my second commit in the edits branch
+
+Add another change to the master branch
